@@ -4,7 +4,7 @@
 
 🏗️ I'm a Software Developer passionate about Web Development, Automation Testing, and Networking.  
 
-🚀 Aspiring Tech Enthusiast | Lifelong Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+🚀 Aspiring Tech Enthusiast | Lifelong Learner
 
 🎯 Goal-Oriented | Punctual | Passionate
 
@@ -25,7 +25,7 @@
 </p>
 <br>
 
-### 🧑‍💻 Tech I work on:  
+<h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
