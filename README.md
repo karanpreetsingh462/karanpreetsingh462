@@ -1,30 +1,5 @@
-<p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="http://discord.com/users/apoorv#4040" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" height="40" width="40" />
-  </a>
-  <a href="https://www.buymeacoffee.com/apoorvtyagi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" alt="Buy me a Coffee" height="40" width="40" />
-  </a>
-</p>
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-<style>
-  p a {
-    margin: 0 10px;
-    transition: transform 0.3s ease-in-out;
-  }
-
-  p a:hover {
-    transform: scale(1.2);
-  }
-</style>
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 ## 👋 Hey there! I'm Karanpreet Singh  
 
 🏗️ I'm a Software Developer passionate about Web Development, Automation Testing, and Networking.  
@@ -36,6 +11,19 @@
 💡 I love exploring new technologies, working with skilled professionals, and diving deep into topics that spark my interest. Whether it's web dev, AI, automation testing, networking, or algorithms, I thrive on learning and building cool stuff!
 
 🔍 Always eager to learn, adapt, and grow—because every challenge is an opportunity!  
+
+<br>
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/karanpreetsingh462" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40">
+  </a>
+  &nbsp;
+  <a href="https://www.leetcode.com/karanpreetsingh462" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40">
+  </a>
+</p>
+<br>
 
 ### 🧑‍💻 Tech I work on:  
 <p align="center">
@@ -55,7 +43,6 @@
 
 </p>
 <h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karanpreetsingh462&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanpreetsingh462&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
@@ -71,4 +58,3 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karanpreetsingh462/karanpreetsingh462/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/karanpreetsingh462//output/github-snake.svg" />
   </picture>
-"# karanpreetsingh462" 
