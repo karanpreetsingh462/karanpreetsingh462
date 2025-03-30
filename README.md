@@ -43,10 +43,12 @@
 
 </p>
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karanpreetsingh462&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanpreetsingh462&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=karanpreetsingh462&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanpreetsingh462&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 <h2 align="center">👀 Profile Views</h2>
 <p align="center">
