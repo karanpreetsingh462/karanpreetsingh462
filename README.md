@@ -2,7 +2,7 @@
 
 ## 👋 Hey there! I'm Karanpreet Singh  
 
-🏗️ I'm a Software Developer passionate about Web Development, Automation Testing, and Networking.  
+🏗️ I'm a Software Developer passionate about DevOps,Web Development, Automation Testing, and Networking.  
 
 🚀 Aspiring Tech Enthusiast | Lifelong Learner
 
@@ -34,6 +34,9 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="55"/>
