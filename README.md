@@ -2,13 +2,13 @@
 
 ## 👋 Hey there! I'm Karanpreet Singh  
 
-🏗️ I'm a Software Developer passionate about DevOps,Web Development, Automation Testing, and Networking.  
+🏗️ I'm a Software Developer passionate about DevOps, Web Development, Automation Testing, and Networking.  
 
 🚀 Aspiring Tech Enthusiast | Lifelong Learner
 
 🎯 Goal-Oriented | Punctual | Passionate
 
-💡 I love exploring new technologies, working with skilled professionals, and diving deep into topics that spark my interest. Whether it's web dev, AI, automation testing, networking, or algorithms, I thrive on learning and building cool stuff!
+💡 I love exploring new technologies, working with skilled professionals, and diving deep into topics that spark my interest. Whether it's web dev, AI, DevOps, automation testing, networking, or algorithms, I thrive on learning and building cool stuff!
 
 🔍 Always eager to learn, adapt, and grow—because every challenge is an opportunity!  
 
