@@ -61,26 +61,9 @@
   <img src="https://komarev.com/ghpvc/?username=karanpreetsingh462&color=brightgreen" alt="Profile Views">
 </p>
 
-#  LeetCode Stats
-
-
-![LeetCode Card](https://leetcard.jacoblin.cool/karanpreetsingh462?theme=dark&font=baloo&ext=heatmap)
-
-<h2 align="left"> My LeetCode Badges</h2>  
-<p align="left">
-  <!-- 50 Days Badge -->
-  <a href="https://leetcode.com/karanpreetsingh462/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" width="200" />
-  </a>
-
-  <!-- June Challenge Badge -->
-  <a href="https://leetcode.com/karanpreetsingh462/" target="_blank">
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="June Challenge Badge" width="200" />
-  </a>
-
- <a href="https://leetcode.com/karanpreetsingh462/" target="_blank">
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" alt="July Challenge Badge" width="200" />
-</a>
+<h2 align="center">LeetCode Stats</h2>
+<p align="center">
+  <img src="[https://komarev.com/ghpvc/?username=karanpreetsingh462&color=brightgreen](https://leetcard.jacoblin.cool/karanpreetsingh462?theme=dark&font=Tiro%20Devanagari%20Sanskrit)" alt="LeetCode Stats">
 </p>
 
  <picture>
