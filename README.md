@@ -23,27 +23,38 @@
 <br>
 
 <h2 align="center">🛠️ Tech Stack</h2>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55"/> 
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="55"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="50"/> 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MYSQL" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="50"/>
-</p>
+<table align="center">
+  <tr>
+    <td><strong>💻 Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=java,python,js" /></td>
+  </tr>
+  <tr>
+    <td><strong>🌐 Frontend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react" /></td>
+  </tr>
+  <tr>
+    <td><strong>🧠 Backend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express" /></td>
+  </tr>
+  <tr>
+    <td><strong>🗃️ Database</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /></td>
+  </tr>
+  <tr>
+    <td><strong>🧰 DevOps & Tools</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,ansible,prometheus,postman" /></td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Cloud</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=azure,aws" /></td>
+  </tr>
+  <tr>
+    <td><strong>💻 OS</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=ubuntu" /></td>
+  </tr>
+</table>
+
+
 
 <br>
 
